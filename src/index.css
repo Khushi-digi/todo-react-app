@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* h1{
+    font-family: colfax;
+} */
+
+*{
+    font-family: colfax;
+}
+::selection{
+    color: rgb(255, 221, 0);
+}
